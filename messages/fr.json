@@ -1,5 +1,10 @@
 {
     "Index": {
       "title": "Bonjour à Tous!"
+    },
+    "Navbar": {
+      "home": "Home",
+      "about": "A propos",
+      "contact": "Contact"
     }
   }
