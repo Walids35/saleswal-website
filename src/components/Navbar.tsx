@@ -9,8 +9,8 @@ const Navbar = () => {
   return (
    <>
     <div className="py-10 flex justify-between">
-        <Image src="/logo.svg" alt="logo" width={200} height={100} />
-        <div className="flex">
+        <Image src="/logo.svg" alt="logo" width={100} height={100} />
+        <div className="flex text-sm md:text-base">
             <Link className={linkStyle} href="/">{t("home")}</Link>
             <Link className={linkStyle} href="/">{t("about")}</Link>
             <Link className={linkStyle} href="/">{t("contact")}</Link>

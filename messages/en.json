@@ -6,5 +6,15 @@
       "home": "Home",
       "about": "About",
       "contact": "Contact"
+    },
+    "Landing": {
+      "title": {
+        "first": "Leads",
+        "second": "Today.",
+        "third": "Revenues",
+        "fourth": "Tomorrow."
+      },
+      "subtitle": "Unlock your business's true potential with our growth strategies, driving unparalleled leads and skyrocketing revenues tailored just for you.",
+      "button": "Schedule A Call"
     }
   }

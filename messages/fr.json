@@ -6,5 +6,15 @@
       "home": "Home",
       "about": "A propos",
       "contact": "Contact"
+    },
+    "Landing": {
+      "title": {
+        "first": "Des Prospects",
+        "second": "aujourd'hui,",
+        "third": "Des revenus",
+        "fourth": "demain"
+      },
+      "subtitle": "Libérez le véritable potentiel de votre entreprise avec nos stratégies de croissance, générant des prospects inégalés et des revenus en forte hausse, spécialement conçus pour vous.",
+      "button": "Prendre un RDV"
     }
   }
