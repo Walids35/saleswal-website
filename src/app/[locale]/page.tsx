@@ -31,7 +31,9 @@ export default function Index() {
             <button className="bg-my-blue text-white font-medium py-2 px-4 mt-5 hover:bg-white hover:text-my-blue hover:underline duration-300 transition-all">{text("button")}</button>         
           </div>
         </div>
-        <div className="bg-black h-80 w-full"></div>
+        <div className="bg-black h-96 w-full">
+
+        </div>
       </div>
     </>
   );
