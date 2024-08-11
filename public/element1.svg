@@ -1,0 +1,7 @@
+<svg width="94" height="89" viewBox="0 0 94 89" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15 55L63 7" stroke="black" stroke-dasharray="2 2"/>
+<circle cx="62.5" cy="7.5" r="7.5" fill="black"/>
+<path d="M16 54.9411H83.8823" stroke="black" stroke-dasharray="2 2"/>
+<circle cx="83.175" cy="54.9411" r="7.5" transform="rotate(45 83.175 54.9411)" fill="black"/>
+<circle cx="14.5" cy="55.5" r="14.5" fill="#297BFF"/>
+</svg>
