@@ -1,4 +1,6 @@
+"use client"
 import React from "react";
+import { InlineWidget } from "react-calendly";
 
 const ChooseUsSection = () => {
   return (
@@ -15,7 +17,7 @@ const ChooseUsSection = () => {
         </div>
         <div><p className="font-medium">Are You a <span className="text-my-blue">Perfect Fit</span> for Our Expert Lead Generation Services?</p>
         <p>We only work with companies that we can guarantee success for. Please book a meeting so that we can direct you to the right person in our company.</p></div>
-
+        <InlineWidget styles={{height: "690px"}} url="https://calendly.com/wsiala4/we-find-customers-for-you" />
       </div>
     </div>
   );
