@@ -1,18 +1,22 @@
 "use client"
+import Image from "next/image";
 import React from "react";
 import { InlineWidget } from "react-calendly";
 
 const ChooseUsSection = () => {
   return (
-    <div className="max-w-6xl 2xl:max-w-7xl mx-auto py-32">
+    <div className="schedulecall max-w-6xl 2xl:max-w-7xl mx-auto py-32">
       <div className="flex flex-col gap-3">
         <div className="relative w-fit">
           <h1 className="font-bold text-3xl z-0">
             Schedule A Lead Generation Demo
           </h1>
-          <img
+          <Image
             src="/element1.svg"
             className="-z-10 w-16 absolute -top-7 -right-14"
+            alt="element1"
+            width={100}
+            height={50}
           />
         </div>
         <div><p className="font-medium">Are You a <span className="text-my-blue">Perfect Fit</span> for Our Expert Lead Generation Services?</p>
